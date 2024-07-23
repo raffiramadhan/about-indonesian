@@ -1,0 +1,7 @@
+names of province:
+- Banten
+  *Pamulang
+  *Ciputat
+  *Ciputat
+- Jawa Barat
+- Jawa Tengah
