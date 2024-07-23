@@ -1,0 +1,4 @@
+names of sub-district:
+- Pamulang
+- Ciputat 
+- Ciputat Timur
