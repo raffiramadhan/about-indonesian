@@ -3,6 +3,8 @@ names of province:
   *Pamulang
   *Ciputat
   *Ciputat
+  *Setu
+  *Serpong
 - Jawa Barat
-- Jawa Tengah
+  *Bogor
 - Jawa Timur
